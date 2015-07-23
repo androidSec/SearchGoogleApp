@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Json.NET iOS Sample.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone5.8.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleViewController.cs">
+    <Files>
+      <File FileName="SampleViewController.cs" Line="7" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
