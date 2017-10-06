@@ -15,6 +15,18 @@
         android:layout_height="wrap_content"
         android:text="Search"
         android:background="@android:color/@android:color/background_dark" />
+     <Button
+        android:id="@+id/myButton1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add"
+        android:background="@android:color/@android:color/background_dark" />
+     <Button
+        android:id="@+id/myButton2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Delete"
+        android:background="@android:color/@android:color/background_dark" />
     <ListView
         android:minWidth="25px"
         android:minHeight="25px"
